@@ -1,1 +1,3 @@
-# Conex-o_DB_Node.JS
+# Conexão_DB_Node.JS
+
+OBS: Necessário instalar biblioteca mysql
